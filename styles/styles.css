@@ -1,0 +1,12 @@
+#contBarra{
+    width: 20%;
+    height:500px ;
+    background-color: red;
+    float: left;
+}
+#contTexto{
+    width: 80%;
+    height:900px ;
+    background-color: blue;
+    float: right;
+}
