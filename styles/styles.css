@@ -1,59 +1,13 @@
-#contBarra{
-    width: 20%;
-    height:500px ;
-    float: left;
-}
-#contTexto{
-    width: 80%;
-    height:900px ;
-    text-align: justify;
-    float: right;
-    overflow: scroll;
-    
-   
-}
+@import "menu.css";
+@import "texto.css";
+
 
 h2{
     font-size: 35px;
 }
 
-#contboxtitle{
-    width: 75%;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;  
-    
-    
-}
 
-#boxtitle{
-    font-size: 25px;
-    font-weight: bold;
 
-}
-
-.box{
-    width: 75%;
-    height: 50px;
-    border: 5px solid grey;
-    margin: 7px;
-}
-
-#frontEnd,#html,#css,#js,#backEnd{
-    
-    height: 50px;
-    font-size: 20px;
-    color:grey;
-    /*background-color: red;*/
-}
-
-.box:hover{
-    background-color: grey;
-    color: white;
-    
-}
-#frontEnd:hover,#html:hover,#css:hover,#js:hover,#backEnd:hover{
-    font-size: 20px;
-    color:white;
+a{
+text-decoration: none;
 }

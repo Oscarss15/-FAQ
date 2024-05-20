@@ -1,0 +1,48 @@
+#contBarra{
+    width: 20%;
+    height:500px ;
+    float: left;
+    
+}
+
+#contboxtitle{
+    width: 75%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    
+}
+#boxtitle{
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.box{
+    width: 75%;
+    height: 50px;
+    
+}
+
+#frontEnd,#html,#css,#js,#backEnd{
+    
+    height: 50px;
+    font-size: 20px;
+    color:grey;
+    border: 5px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+   
+}
+
+.box:hover{
+    background-color: grey;
+    color: white;
+    
+}
+#frontEnd:hover,#html:hover,#css:hover,#js:hover,#backEnd:hover{
+    font-size: 20px;
+    color:white;
+}
