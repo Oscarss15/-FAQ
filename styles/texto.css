@@ -1,0 +1,9 @@
+
+#contTexto{
+    width: 80%;
+    height:900px ;
+    text-align: justify;
+    float: right;
+    overflow: scroll;
+     
+}
