@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 Este proyecto se basa en una wiki de programación con un menu con enlaces que llevan al contenido de cada título.
 
